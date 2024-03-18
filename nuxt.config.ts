@@ -7,7 +7,7 @@ export default defineNuxtConfig({
         "@nuxtjs/color-mode",
         "shadcn-nuxt",
         "@vueuse/nuxt",
-        "nuxt-icon",
+        "nuxt-icon"
     ],
     css: ["@/src/index.css"],
     shadcn: {
